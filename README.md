@@ -1,2 +1,2 @@
-# Kosen
+# KOSEN Mod
 kosen卍
